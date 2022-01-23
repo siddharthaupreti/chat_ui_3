@@ -1,0 +1,37 @@
+{
+    "user_info":[
+        {
+            "id": 1, 
+            "Name": "Siddhirarthia Upreti",
+            "Age": 22,
+            "image": "https://images.unsplash.com/photo-1601288496920-b6154fe3626a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        },
+        {
+            "id": 2, 
+            "Name": "Aadesh Bhattrai",
+            "Age": 26,
+            "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        },
+        {
+            "id": 3, 
+            "Name": "Aadarsha Bhattrai",
+            "Age": 29,
+            "image": "https://images.unsplash.com/photo-1546456073-92b9f0a8d413?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        },
+        {
+            "id": 4, 
+            "Name": "Jenish penis",
+            "Age": 22,
+            "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        },
+        {
+            "id": 5, 
+            "Name": "Nikesh Chikesh",
+            "Age": 19,
+            "image": "https://images.unsplash.com/photo-1509460913899-515f1df34fea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        }
+
+
+    ]
+
+}
